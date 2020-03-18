@@ -3,35 +3,19 @@ html {
 }
 
 body {
-    background: rgb(253, 243, 255);
-}
-
-.container {
-    width: 90%;
-    text-align: center;
-}
-
-.card {
-    background: white;
-    width: 50%;
-    display: inline-block;
-    margin: 5px;
-}
-.welcome {
-    background: white;
-    width: 50%;
-    display: inline-block;
-    margin: 5px;
-}
-.quote {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background: white;
-    width: 20%;
-    display: inline-block;
-    margin: 5px;
+    background: rgb(254, 250, 255);
 }
 
 
-.quote quote-text {
+
+.col-sm-5, .col-sm-3 {
+    margin: 2px;
+}
+
+.col-sm-3 {
+    padding: 50px;
+}
+
+quote-text {
     line-height: 200%;
 }
