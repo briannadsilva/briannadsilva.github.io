@@ -8,13 +8,11 @@ body {
 
 
 
-.col-sm-5, .col-sm-3 {
+.col-sm-4, .col-sm-3 {
     margin: 2px;
-}
-
-.col-sm-3 {
     padding: 50px;
 }
+
 
 quote-text {
     line-height: 200%;
